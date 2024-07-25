@@ -1,0 +1,17 @@
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\obj\Debug\XAMLPlugin.vbproj.AssemblyReference.cache
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\obj\Debug\XAMLPlugin.baml
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\obj\Debug\XAMLPlugin.g.vb
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\obj\Debug\XAMLPlugin_MarkupCompile.cache
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\obj\Debug\XAMLPlugin.g.resources
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\obj\Debug\XAMLPlugin.Resources.resources
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\obj\Debug\XAMLPlugin.vbproj.GenerateResource.cache
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\obj\Debug\XAMLPlugin.vbproj.CoreCompileInputs.cache
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\bin\Debug\XAMLPlugin.dll
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\bin\Debug\XAMLPlugin.pdb
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\bin\Debug\XAMLPlugin.xml
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\bin\Debug\vMixInterop.dll
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\bin\Debug\vMixTitleLibrary.dll
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\obj\Debug\XAMLPlugin.vbproj.CopyComplete
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\obj\Debug\XAMLPlugin.dll
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\obj\Debug\XAMLPlugin.xml
+D:\Dev\For_Github\RT\VMIX\vmix_XAML_Control_Plugin\XAMLPlugin\XAMLPlugin\obj\Debug\XAMLPlugin.pdb
